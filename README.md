@@ -1,1 +1,1 @@
-# KrishnaSaiRadhesh-Media_queries_Task4
+# Media_queries_Task4
